@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
         LL_SEARCH_MAX_TOP_MARGIN = dp2px(this, 49f);//布局默认展开时顶部距离
         LL_SEARCH_MAX_WIDTH = getScreenWidth(this) - dp2px(this, 30f);//布局默认展开时的宽度
 
-
         /**
          * 安居客效果
          */
